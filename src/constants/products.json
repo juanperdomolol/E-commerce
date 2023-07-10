@@ -1,0 +1,125 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Arepas Paisas",
+        "price": 5000,
+        "image": "Arepas Paisas.jpg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 2,
+        "name": "Bandeja Montañera",
+        "price": 25000,
+        "image": "Bandeja Montañera.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 3,
+        "name": "Empanadas Costeñas",
+        "price": 2000,
+        "image": "Empanadas Costeñas.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 4,
+        "name": "Patacón Deluxe",
+        "price": 12000,
+        "image": "Patacón Deluxe.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 5,
+        "name": "Ajiaco Bogotano",
+        "price": 15000,
+        "image": "Ajiaco Bogotano.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 6,
+        "name": "Cazuela Valluna",
+        "price": 18000,
+        "image": "Cazuela Valluna.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 7,
+        "name": "Tamal Tolimense",
+        "price": 8000,
+        "image": "Tamal Tolimense.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 8,
+        "name": "Sancocho Antioqueño",
+        "price": 16000,
+        "image": "Sancocho Antioqueño.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 9,
+        "name": "Mote de Queso",
+        "price": 6000,
+        "image": "Mote de Queso.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 10,
+        "name": "Lechona Tolimense",
+        "price": 35000,
+        "image": "Lechona Tolimense.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 11,
+        "name": "Cuchuco de Trigo",
+        "price": 10000,
+        "image": "Cuchuco de Trigo.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 12,
+        "name": "Sobrebarriga al Horno",
+        "price": 22000,
+        "image": "Sobrebarriga al Horno.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 13,
+        "name": "Fritanga Paisa",
+        "price": 18000,
+        "image": "Fritanga Paisa.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 14,
+        "name": "Mazamorra Antioqueña",
+        "price": 5000,
+        "image": "Mazamorra Antioqueña.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      },
+      {
+        "id": 15,
+        "name": "Cocadas Costeñas",
+        "price": 3000,
+        "image": "Cocadas Costeñas.jpeg",
+        "quantity": 0,
+        "description": "Caution: Product description ahead! Brace yourself for a lengthy read that takes up significant space. Get ready to explore every detail and feature of our amazing product"
+      }
+    ]
+  }
+  

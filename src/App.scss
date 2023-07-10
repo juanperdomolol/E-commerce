@@ -1,0 +1,41 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+nav {
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    max-width: 100%; /* Agrega esta línea para limitar el ancho del contenedor */
+  
+    ul {
+      display: flex;
+      list-style: none;
+  
+      li {
+        margin-right: 10px;
+      }
+    }
+  
+    .icon {
+      font-size: 24px;
+      color: $white-color;
+    }
+  
+    .cart-icon {
+      margin-left: auto;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    nav {
+      margin: 10px 0;
+      flex-direction: column;
+  
+      ul {
+        margin-top: 20px;
+      }
+    }
+  }
+  

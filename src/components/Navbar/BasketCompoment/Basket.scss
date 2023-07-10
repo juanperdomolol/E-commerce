@@ -1,0 +1,45 @@
+.basket-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: purple;
+    color: white;
+  
+    .basket-content {
+      display: flex;
+      align-items: center;
+      margin-right: 10px;
+  
+      svg {
+        height: 3em;
+        width: 3em;
+        fill: white;
+      }
+  
+      p {
+        margin: 0;
+      }
+    }
+  
+    .delete-all-products {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 30px;
+      height: 30px;
+      background-color: red;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: all 0.3s ease;
+  
+      &:hover {
+        transform: scale(1.2);
+      }
+  
+      svg {
+        fill: white;
+      }
+    }
+  }
+  

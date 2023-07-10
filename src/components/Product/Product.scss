@@ -1,0 +1,101 @@
+.product-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar horizontalmente */
+    max-width: 500px; /* Ajustar el ancho máximo según tus necesidades */
+    margin: 0 auto; /* Centrar horizontalmente */
+  }
+  
+  .product-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: purple;
+  }
+  .product-image-container {
+    position: relative;
+    margin-bottom: 20px;
+    .product-image {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 8px;
+      }
+  }
+  
+  .quantity-indicator {
+    position: absolute;
+    top: 10px;
+    left: -40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: purple;
+    border-radius: 50%;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .quantity-text {
+    font-size: 16px;
+  }
+  
+  .product-image {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .product-details {
+    flex-grow: 1;
+  }
+  
+  .name-price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .product-name {
+    font-weight: bold;
+  }
+  
+  .product-price {
+    color: purple;
+    font-weight: bold;
+  }
+  
+  .quantity-buttons {
+    display: flex;
+    gap: 5px;
+  }
+  
+  .add-button,
+  .remove-button {
+    border: none;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .add-button {
+    background-color: purple;
+    color: white;
+  }
+
+  .remove-button {
+    background-color: red;
+    color: white;
+  }
+  
+  .product-description {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  

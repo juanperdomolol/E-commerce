@@ -1,0 +1,27 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .left-column {
+    padding: 20px;
+  }
+  
+  .right-column {
+    padding: 20px;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .home-container {
+      flex-direction: row;
+    }
+  
+    .left-column {
+      flex: 1 0 40%;
+    }
+  
+    .right-column {
+      flex: 1 0 60%;
+    }
+  }
+  
